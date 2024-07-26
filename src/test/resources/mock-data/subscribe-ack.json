@@ -1,0 +1,13 @@
+{
+  "method": "subscribe",
+  "result": {
+    "channel": "book",
+    "depth": 10,
+    "snapshot": true,
+    "symbol": "ALGO/USD"
+  },
+  "success": true,
+  "time_in": "2023-10-06T17:35:55.219022Z",
+  "time_out": "2023-10-06T17:35:55.219067Z",
+  "req_id": 1
+}
